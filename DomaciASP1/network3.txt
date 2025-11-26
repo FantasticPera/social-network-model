@@ -1,0 +1,17 @@
+9
+14
+A B C D E F G H X
+A B 0.1
+B H 0.1
+H A 0.1
+B G 0.1
+H G 0.1
+G F 0.1
+F G 0.1
+B C 0.1
+C F 0.1
+C D 0.1
+F E 0.1
+D C 0.1
+D E 0.1
+F C 0.1

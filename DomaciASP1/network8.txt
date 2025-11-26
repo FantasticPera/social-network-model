@@ -1,0 +1,10 @@
+8
+7
+A B C D E F G H
+C B 0.1
+B A 0.1
+C D 0.2
+D H 0.3
+E D 0.9
+E F 0.9
+F G 0.9
